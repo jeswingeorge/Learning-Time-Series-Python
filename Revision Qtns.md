@@ -1,4 +1,5 @@
-## ACF and PACF plots
+# 8. General forcating models
+### ACF and PACF plots
 
 1. Difference between ACF and PACF plots.
 	- Definition
@@ -9,9 +10,22 @@
 3. What is shaded region in ACF plot?
 
 
-## AR
+### AR
 1. What is autoregression? General Eqn? AR(1) and AR(2) eqns?
 2. If p is high, we will incorporate more historical data but complexity will be very high.
+
+### Descriptive stats for time series
+1. Augmented dickey fueller test - H0 and H1
+2. Granger Causality Test
+3. AIC/BIC
+4. Seasonality plots (General forecasting models: Descriptive stats part 3: 4:08)
+	- Function to plot Seasonality with Month and Quarter Plots - notebook
+
+### ARIMA
+1.3 components of ARIMA: AR, I and MA.
+2. p,d,q - obtaining it from the acf and PACF plots.
+
+
 
 
 
